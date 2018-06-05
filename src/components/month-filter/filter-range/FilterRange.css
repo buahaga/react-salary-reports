@@ -1,0 +1,7 @@
+.filter-range {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  height: 20px;
+  background-color: #1E90FF;
+}

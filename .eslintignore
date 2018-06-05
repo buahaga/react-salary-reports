@@ -1,0 +1,8 @@
+.git/*
+build/*
+coverage/*
+node_modules/*
+**/node_modules/*
+*.test.*
+test/*
+index.js

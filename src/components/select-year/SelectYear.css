@@ -1,0 +1,22 @@
+.year-select {
+  margin: 10px;
+  text-align: center;
+}
+.select-year-btn,
+.select-year-btn-disabled {
+  display: inline-block;
+  width: 20px;
+  height: 10px;
+  margin: 5px 10px;
+  padding: 3px 10px 10px;
+  box-shadow: 2px 2px grey;
+  background-color: lightgreen;
+  outline: thin solid grey;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+.select-year-btn-disabled {
+  background-color: lightgrey;
+}

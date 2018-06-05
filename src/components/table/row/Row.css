@@ -1,0 +1,10 @@
+.tableRow {
+  display: block;
+  border-bottom: 1px solid grey;
+  padding: 10px;
+}
+
+.tableCell {
+  display: inline-block;
+  width: 50%;
+}

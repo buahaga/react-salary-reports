@@ -1,0 +1,8 @@
+.filter-handler {
+    position: absolute;
+    top: -5px;
+    z-index: 3;
+    width: 20px;
+    height: 30px;
+    background-color: green;
+}

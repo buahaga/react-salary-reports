@@ -1,0 +1,11 @@
+.chart {
+    display: inline-block;
+    padding-top: 20px;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.chart-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}

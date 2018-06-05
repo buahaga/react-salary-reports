@@ -1,0 +1,17 @@
+{
+    "moduleNameMapper": {
+        "^.+\\.(css|scss)$": "identity-obj-proxy"
+    },
+    "collectCoverageFrom": [
+        "**/utils/*.js",
+        "**/reducers/*.js",
+        "**/actions/*.js",
+        "**/filters/*.js",
+        "!**/node_modules/**",
+        "!**/vendor/**"
+    ],
+    "testPathIgnorePatterns": [
+        "/node_modules/",
+        "<rootDir>/test/"
+    ]
+}
